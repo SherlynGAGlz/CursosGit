@@ -1,3 +1,7 @@
 este es mi nuevo archivo
+<<<<<<< HEAD
 
 Cambios desde la rama principal
+=======
+cambios nuevos de mi nueva rama jiii
+>>>>>>> vscode
