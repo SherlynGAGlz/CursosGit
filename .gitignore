@@ -1,0 +1,6 @@
+*.sln
+
+bin/
+obj/
+#Elimina este archivo de configuración de la aplicación para evitar subir información sensible a GitHub
+appsettings.json
